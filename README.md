@@ -53,6 +53,8 @@ This repository contains a community-curated list of everything related to Waku 
 
 ## Hackathon Projects
 
+- [Portal - '25 Web3Privacy Hackathon winner](https://github.com/sunsakis/portal) - Portal enables you to join location-based P2P chatrooms using a map.
+- [Aside - '25 Web3Privacy Hackathon winner](https://github.com/weboko/aside) - Aside is a radically minimal, ephemeral, peer-to-peer chat tool.
 - [Beccamose](https://taikai.network/ethrome/hackathons/ethrome-23/projects/clngpzve100vwwu01gfect9sw/idea) - Wallet to wallet private location sharing
 - [CIAO](https://taikai.network/ethrome/hackathons/ethrome-23/projects/clng2p89h00k0wu01iw4tvsya/idea) - E2E Encrypted ENS powered messaging app using Waku Protocol(1-1)
 - [CredLancer](https://taikai.network/ethrome/hackathons/ethrome-23/projects/clngrsp5z00wmwu015njgjdjl/idea) - Bridging Talent, Trust & Privacy with verifiable CREDentials by leveraging the power of blockchain and Zero-Knowledge tech
